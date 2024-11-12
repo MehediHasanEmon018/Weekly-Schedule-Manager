@@ -22,8 +22,7 @@ To compile and run this project, you need:
    To get started, clone this repository to your local machine:
    
    ```bash
-   git clone https://github.com/MehediHasanEmon018/weekly-schedule-manager.git
-   cd weekly-schedule-manager
+   git clone https://github.com/MehediHasanEmon018/Weekly-Schedule-Manager 
 
 ## Example Usage
 1. Adding a Subject
