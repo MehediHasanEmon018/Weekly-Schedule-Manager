@@ -16,6 +16,15 @@ To compile and run this project, you need:
 - A C compiler (e.g., GCC)
 - A development environment (e.g., Code::Blocks, Visual Studio, or terminal)
 
+## How to Use
+1. **Clone the Repository**:
+
+   To get started, clone this repository to your local machine:
+   
+   ```bash
+   git clone https://github.com/MehediHasanEmon018/weekly-schedule-manager.git
+   cd weekly-schedule-manager
+
 ## Example Usage
 1. Adding a Subject
 -Select option 1 (Add Subject).
